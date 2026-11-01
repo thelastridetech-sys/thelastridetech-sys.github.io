@@ -1,4 +1,5 @@
 # app-ads.txt for Background Video Recorder (Last Ride Tech) - https://thelastridetech-sys.github.io
+ownerdomain=thelastridetech-sys.github.io
 # Start.io (copied from the Start.io portal)
 start.io, 180846964, DIRECT
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
