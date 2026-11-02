@@ -278,6 +278,9 @@ pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 vidoomy.com, 8953515, RESELLER
 voisetech.com, 1066, RESELLER
+appnexus.com, 12622, reseller
+rubiconproject.com, 26324, reseller, 0bfd66d529a55807
+bidmatic.io, b-c0fec, reseller
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
 my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
 ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
